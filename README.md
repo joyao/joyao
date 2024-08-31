@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JY Hsu</h1>
-<h3 align="center">I am a versatile Firmware, Software, DevSecOps Engineer and Open-Source Contributor</h3>
+<h3 align="center">I am an active Firmware, Software, Full-Stack, DevSecOps Engineer and Open-Source Contributor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyao&label=Profile%20views&color=0e75b6&style=flat" alt="joyao" /> </p>
 
