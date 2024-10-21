@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm JY Hsu</h1>
-<h3 align="center">I am an active Firmware, Software, Full-Stack, DevSecOps Engineer and Open-Source Contributor</h3>
+<h3 align="center">I am an active Software, Firmware, Full-Stack, DevSecOps, SDET, GIS Engineer and Open-Source Maintainer/Contributor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyao&label=Profile%20views&color=0e75b6&style=flat" alt="joyao" /> </p>
 
-- 🌱 I’m currently learning **UEFI and testing**
+- 🌱 I’m currently working on **UEFI and testing**
 
 - 👨‍💻 All of my projects are available at [https://joyao.github.io/](https://joyao.github.io/)
 
