@@ -27,10 +27,10 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats-joyaos-projects.vercel.app/api?username=joyao&count_private=true&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs&number_format=long\&rank_icon=github" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=joyao&theme=transparent&hide_border=true" />
+<img align="center" width="400" src="https://github-readme-streak-stats-joyaos-projects.vercel.app/?user=joyao&theme=transparent&hide_border=true" />
 <br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=joyao&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+<img width="800" src="https://github-readme-activity-graph-joyaos-projects.vercel.app/graph?username=joyao&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <br/>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats-joyaos-projects.vercel.app/api/wakatime?username=joyao&theme=transparent&hide_border=true&layout=compact&langs_count=22&v=2" />
