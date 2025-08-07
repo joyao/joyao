@@ -16,10 +16,6 @@
 
 🌱 I’m currently working on **UEFI and testing**
 
-👨‍💻 All of my projects are available at [https://joyao.github.io/](https://joyao.github.io/)
-
-📝 I regularly write articles on [https://hsujy.wordpress.com/](https://hsujy.wordpress.com/)
-
 💬 Ask me about **WebGIS, Front-end, Back-end, CI/CD and UEFI**
 </div>
 
