@@ -14,9 +14,9 @@
 
 <div align="center">
 
-🌱 I’m currently working on **UEFI and testing**
+🌱 I’m currently working on SoC security automation
 
-💬 Ask me about **WebGIS, Front-end, Back-end, CI/CD and UEFI**
+💬 Ask me about **WebGIS, Front-end, Back-end, CI/CD, SDET and UEFI**
 </div>
 
 <p align="center">
